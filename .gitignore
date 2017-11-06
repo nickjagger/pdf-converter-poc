@@ -1,0 +1,13 @@
+/.classpath
+/.project
+/.settings
+/target/
+/ch/**
+/src/main/resources/rebel.xml
+/data/localities.csv
+/data/streets.csv
+/data/towns.csv
+/catalina.base_IS_UNDEFINED/
+/.idea/
+/*.eml
+/*.iml
